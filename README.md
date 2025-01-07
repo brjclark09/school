@@ -1,2 +1,2 @@
-# school
-school readme file
+# school repository
+school readme file, for git
